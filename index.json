@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "chex",
+  "versions": [
+    {
+      "commit": "02bfaa78564cdcac0bf498f40d6e39edeebacd36",
+      "tag": "",
+      "parsed_at": "2026-11-06T09:02:48.009092+00:00"
+    }
+  ]
+}
