@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/chex/commit/02bfaa78564cdcac0bf498f40d6e39edeebacd36",
       "git:hexsha": "02bfaa78564cdcac0bf498f40d6e39edeebacd36",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/google-deepmind/chex/commit/01ca0716060821101ebb487974917ca49f26d8c3",
